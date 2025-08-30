@@ -1,2 +1,2 @@
 # Portugol
-Repositório para Exercícios 
+Repositório para Exercícios da Disciplina de Conceitos e Algoritmos 
